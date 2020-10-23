@@ -11,7 +11,7 @@ $loadnav = (isset($_GET['loadnav']) && $_GET['loadnav'] != '') ? $_GET['loadnav'
                 <h1>PORTFOLIO</h1>by: Carl Aguilar | BSIT_3A
                 <div class="nav">
                     <div class="navbar">
-                        <a href="index.html">Home</a>
+                        <a href="index.php">Home</a>
                         <div class="dropdown">
                           <button class="dropbtn">CSS
                             <i class="fa fa-caret-down"></i>
