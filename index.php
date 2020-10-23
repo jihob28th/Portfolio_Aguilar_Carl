@@ -34,7 +34,7 @@ $loadnav = (isset($_GET['loadnav']) && $_GET['loadnav'] != '') ? $_GET['loadnav'
                               <a href="#">Rotate</a>
                             </div>
                           </div>
-                          <a href="index.html">About Me</a>
+                          <a href="index.php">About Me</a>
                     </div>
                 </div>
             </div>
@@ -42,10 +42,10 @@ $loadnav = (isset($_GET['loadnav']) && $_GET['loadnav'] != '') ? $_GET['loadnav'
                     <?php 
                     switch($loadnav){
                       case 'LT6.1':
-                        require_once 'SVG/LT6.1.html';
+                        require_once 'SVG/LT6.1.php';
                         break;
                       case 'home':
-                          require_once 'index.html';
+                          require_once 'index.php';
                           break;
                     default:
                         require_once 'index.php';
