@@ -1,11 +1,12 @@
 <html>
     <head>
     <title>6.4 Engage | Learning Task 6.1</title>
-    <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="stylesheet" type="text/css" href="style_LT6.1.css">
     </head>
     <body style="background-color: #a6a6a6">
+    <h1>Mary Poppins</h1>
         <g>
-            <div id="umbrella">
+            <div id="umbrella"><center>
                 <svg width="900" height ="780">
                     <path id="outline" fill="none" d="M 400 250 L 400 250 Q 350 200 300 250 Q 250 200 200 250 A 50 50 0 1 1 600 250 Q 550 200 500 250 Q 450 200 400 250 L 400 450 Q 375 500 350 450 " />
                     <path id="inner1" fill="none" d="M 220 210 L 580 210 "/>
@@ -38,7 +39,11 @@
                         </textpath>
                     </text>
                 </svg> 
-            </div>
+            </div></center>
         </g>
     </body>
+    <footer>
+        <hr></hr>
+        Github link: 
+    </footer>
 </html>
