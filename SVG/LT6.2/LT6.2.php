@@ -1,7 +1,7 @@
 <html>
     <head>
         <title>6.4 Engage - Learning Task 6.2</title>
-        <link rel="stylesheet" type="text/css" href="style_LT6.2.css">
+        <link rel="stylesheet" type="text/css" href="SVG/LT6.2/style_LT6.2.css">
     </head>
     <body style="background-color: #eeee;">
         <div class="umbrella">
