@@ -19,6 +19,6 @@
     </body>
     <footer>
         <hr></hr>
-        Github link: 
+        Github link: https://github.com/jihob28th/Portfolio_Aguilar_Carl/blob/main/SVG/LT6.2.php
     </footer>
 </html>
