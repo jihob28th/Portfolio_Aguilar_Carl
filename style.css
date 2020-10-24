@@ -78,7 +78,7 @@
 .body{
     background-color: #eaeaed;
     border: 1px solid black;
-    height: 70%;
+    height: auto;
     padding: 20px;
     min-width: 1200px;;
     margin: auto;
