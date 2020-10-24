@@ -4,7 +4,7 @@
     <link rel="stylesheet" type="text/css" href="SVG/LT6.1/style_LT6.1.css">
     </head>
     <body style="background-color: #a6a6a6">
-    <h1>Mary Poppins</h1>
+        <center><h1>Mary Poppins</h1></center>
         <g>
             <div id="umbrella"><center>
                 <svg width="900" height ="780">
