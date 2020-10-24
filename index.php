@@ -42,10 +42,10 @@ $loadnav = (isset($_GET['loadnav']) && $_GET['loadnav'] != '') ? $_GET['loadnav'
                     <?php 
                     switch($loadnav){
                       case 'LT6.1':
-                        require_once 'SVG/LT6.1.php';
+                        require_once 'SVG/LT6.1/LT6.1.php';
                         break;
                       case 'LT6.2':
-                        require_once 'SVG/LT6.2.php';
+                        require_once 'SVG/LT6.2/LT6.2.php';
                         break;
                       case 'home':
                           require_once 'index.php';
