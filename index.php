@@ -37,8 +37,8 @@ $loadnav = (isset($_GET['loadnav']) && $_GET['loadnav'] != '') ? $_GET['loadnav'
                               <i class="fa fa-caret-down"></i>
                             </button>
                             <div class="dropdown-content">
-                              <a href="index.php?loadnav=prelim">Prelim</a>
-                              <a href="index.php?loadnav=midterm">Midterm</a>
+                              <a href="CLE/Prelim/index.php">Prelim</a>
+                              <a href="CLE/Midterm/index.php">Midterm</a>
                             </div>
                           </div>
                           <a href="index.php">About Me</a>
