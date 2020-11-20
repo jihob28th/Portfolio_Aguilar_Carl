@@ -66,12 +66,6 @@ $loadnav = (isset($_GET['loadnav']) && $_GET['loadnav'] != '') ? $_GET['loadnav'
                       case 'LT5.1':
                         require_once 'SVG/LT5.1/LT5.1.php';
                         break;
-                      case 'prelim':
-                        require_once 'CLE/Prelim/index.php';
-                        break;
-                      case 'midterm':
-                        require_once 'CLE/Midterm/index.php';
-                        break;
                       case 'home':
                           require_once 'index.php';
                           break;
