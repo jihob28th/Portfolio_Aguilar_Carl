@@ -1,8 +1,8 @@
 <html>
     <head>
         <title>Culminating Learning Evidence</title>
-        <link rel="icon" type="image/ico" href="images/logo01.png" />
-        <link rel="stylesheet" type="text/css" href="css/Style.css">
+        <link rel="icon" type="image/ico" href="CLE/Prelim/images/logo01.png" />
+        <link rel="stylesheet" type="text/css" href="CLE/Prelim/css/Style.css">
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
     </head>
     <body style="background-color: #202020">
