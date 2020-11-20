@@ -20,6 +20,7 @@ $loadnav = (isset($_GET['loadnav']) && $_GET['loadnav'] != '') ? $_GET['loadnav'
                             <a href="index.php?loadnav=Mod2">Module 2</a>
                             <a href="index.php?loadnav=Mod3">Module 3</a>
                             <a href="index.php?loadnav=Mod4">Module 4</a>
+                            <a href="CLE/Prelim/index.php">CLE Prelim</a>
                           </div>
                         </div>
                         <div class="dropdown">
@@ -30,15 +31,7 @@ $loadnav = (isset($_GET['loadnav']) && $_GET['loadnav'] != '') ? $_GET['loadnav'
                               <a href="index.php?loadnav=LT5.1">Learning Task 5.1</a>
                               <a href="index.php?loadnav=LT6.1">Learning Task 6.1</a>
                               <a href="index.php?loadnav=LT6.2">Learning Task 6.2</a>
-                            </div>
-                          </div>
-                        <div class="dropdown">
-                            <button class="dropbtn">CLE
-                              <i class="fa fa-caret-down"></i>
-                            </button>
-                            <div class="dropdown-content">
-                              <a href="CLE/Prelim/index.php">Prelim</a>
-                              <a href="CLE/Midterm/index.php">Midterm</a>
+                              <a href="CLE/Midterm/index.php">CLE Midterm</a>
                             </div>
                           </div>
                           <a href="index.php">About Me</a>
