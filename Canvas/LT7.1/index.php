@@ -1,7 +1,6 @@
 <html>
     <head>
         <title>7.4 Engage - Learning Task 7.1</title>
-        <link rel="stylesheet" type="text/css" href="style.css">
     </head>
     <body>
         <canvas id="yinyang" width="200" height="200"></canvas>
