@@ -16,11 +16,11 @@
     </body>
 </html>
 
-<script type="text/javascript" src="js/yinyang.js"></script>
-<script type="text/javascript" src="js/icecream.js"></script>
-<script type="text/javascript" src="js/injection.js"></script>
-<script type="text/javascript" src="js/christmast.js"></script>
-<script type="text/javascript" src="js/target.js"></script>
-<script type="text/javascript" src="js/watermelon.js"></script>
-<script type="text/javascript" src="js/grill.js"></script>
-<script type="text/javascript" src="js/sun.js"></script>
+<script type="text/javascript" src="Canvas/LT7.1/js/yinyang.js"></script>
+<script type="text/javascript" src="Canvas/LT7.1/js/icecream.js"></script>
+<script type="text/javascript" src="Canvas/LT7.1/js/injection.js"></script>
+<script type="text/javascript" src="Canvas/LT7.1/js/christmast.js"></script>
+<script type="text/javascript" src="Canvas/LT7.1/js/target.js"></script>
+<script type="text/javascript" src="Canvas/LT7.1/js/watermelon.js"></script>
+<script type="text/javascript" src="Canvas/LT7.1/js/grill.js"></script>
+<script type="text/javascript" src="Canvas/LT7.1/js/sun.js"></script>
