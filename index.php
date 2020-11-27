@@ -34,6 +34,14 @@ $loadnav = (isset($_GET['loadnav']) && $_GET['loadnav'] != '') ? $_GET['loadnav'
                               <a href="SVG/Midterm/index.php">CLE Midterm</a>
                             </div>
                           </div>
+                          <div class="dropdown">
+                            <button class="dropbtn">Canvas
+                              <i class="fa fa-caret-down"></i>
+                            </button>
+                            <div class="dropdown-content">
+                              <a href="index.php?loadnav=LT7.1">Learning Task 7.1</a>
+                            </div>
+                          </div>
                           <a href="index.php">About Me</a>
                     </div>
                 </div>
@@ -58,6 +66,9 @@ $loadnav = (isset($_GET['loadnav']) && $_GET['loadnav'] != '') ? $_GET['loadnav'
                         break;
                       case 'LT5.1':
                         require_once 'SVG/LT5.1/LT5.1.php';
+                        break;
+                       case 'LT7.1':
+                        require_once 'Canvas/LT7.1/index.php';
                         break;
                       case 'home':
                           require_once 'index.php';
