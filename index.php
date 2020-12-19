@@ -21,7 +21,7 @@ $loadnav = (isset($_GET['loadnav']) && $_GET['loadnav'] != '') ? $_GET['loadnav'
                 <h4>by: Carl Aguilar | BSIT_3A</h4>
                 <div class="nav">
                     <div class="navbar">
-                        <a href="index.php">Home</a>
+                        <a href="index.php?loadnav=Home">Home</a>
                         <div class="dropdown">
                           <button class="dropbtn">CSS
                             <i class="fa fa-caret-down"></i>
@@ -84,7 +84,7 @@ $loadnav = (isset($_GET['loadnav']) && $_GET['loadnav'] != '') ? $_GET['loadnav'
                         require_once 'about.php';
                         break;
                       case 'home':
-                          require_once 'index.php';
+                          require_once 'home.php';
                           break;
                     default:
                         require_once 'index.php';
