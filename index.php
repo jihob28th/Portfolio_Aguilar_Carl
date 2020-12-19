@@ -83,7 +83,7 @@ $loadnav = (isset($_GET['loadnav']) && $_GET['loadnav'] != '') ? $_GET['loadnav'
                       case 'About':
                         require_once 'about.php';
                         break;
-                      case 'home':
+                      case 'Home':
                           require_once 'home.php';
                           break;
                     default:
