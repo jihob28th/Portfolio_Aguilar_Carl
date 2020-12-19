@@ -1,33 +1,12 @@
-#container{
-    width: 100%;
-    height: 100%;
-    position: relative;
-    overflow: hidden;
-}
-.div{
-    display: block;
-}
 
-.sky{
-    position: absolute;
-    min-height: 80%;
-    min-width: 99%;
-    background-color: #91c9ed;
-    z-index: -2;
-}
-.sky{
-    transform: translate(0px,0px)
-}
 .grass{
-    position: absolute;
+    position: relative;
     min-height: 30%;
     min-width: 99%;
+    top: 30%;
     background-color: #6da84f;
-    z-index: -2;
 }
-.grass{
-    transform: translate(0px,450px)
-}
+
 
 .bushdark01{
     position: absolute;
@@ -81,10 +60,10 @@
 }
 
 .bushdark04{
-    position: relative;
+    position: absolute;
     max-width: 40%;
     height: 40%;
-    top: 20px;
+    top: 320px;
     left: 52%;
     animation: skew2 5s infinite;
     transform: skew(4deg);
@@ -151,9 +130,11 @@ h1{
     font-family: 'Trebuchet MS';
     font-weight: bold;
     font-size: 250%;
+    text-align: center;
 }
 h3{
     color: blue;
     font-family: 'Trebuchet MS';
     font-weight: bold;
+    text-align: center;
 }
