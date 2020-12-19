@@ -100,9 +100,9 @@ h3{
   animation: bounce01 3s infinite;
 }
 @keyframes bounce01 {
-  0%   {top: 0px;}
-  50%  {top: -10px;}
-  100% {top: 0px;}
+  0%   {top: 10px;}
+  50%  {top: 0px;}
+  100% {top: 10px;}
 }
 .LetterO01{
   width: 3.5%;
