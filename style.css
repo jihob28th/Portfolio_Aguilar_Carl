@@ -81,6 +81,13 @@ h4{
   font-weight: bold;
   top: 70%;
 }
+h1{
+  position: absolute;
+  color: blue;
+  font-family: 'Trebuchet MS';
+  font-weight: bold;
+  text-align: center;
+}
 
 
 /*Body*/
