@@ -75,7 +75,7 @@
     max-width: 40%;
     height: 40%;
     top: 440px;
-    left: 65%;
+    left: 75%;
     animation: skew1 5s infinite;
     transform: skew(4deg);
     animation-direction: alternate;
