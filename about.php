@@ -5,7 +5,7 @@
     </head>
     <body style="background-color: #91c9ed"><br/>
             <h1>ABOUT ME</h1><br/>
-                    <h3>Name: Carl Jerome S. Aguilar<br/>
+                    <h3 class="font01">Name: Carl Jerome S. Aguilar<br/>
                     Age: 21<br/>
                     Profession: Student<br/>
                     Course: Bachelor of Science Major in Information and Technology<br/>
