@@ -12,7 +12,7 @@
                     Skills: CSS, SVG, Canvas, HTML and PHP<br/></h2>
             <object data="svgIndex/sun.svg" type="image/svg+xml" class="sun"></object>
             <object data="svgIndex/cloud.svg" type="image/svg+xml" class="cloud01"></object>
-            <object data="svgIndex/cloud.svg" type="image/svg+xml" class="cloud02"></object>
+            <object data="svgIndex/cloud.svg" type="image/svg+xml" class="cloud02"></object><br/><br/><br/>
             <div class="grass"></div>
             <object data="svgIndex/bushdark.svg" type="image/svg+xml" class="bushdark01"></object>
             <object data="svgIndex/bushdark.svg" type="image/svg+xml" class="bushdark02"></object>
