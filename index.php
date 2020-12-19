@@ -8,7 +8,17 @@ $loadnav = (isset($_GET['loadnav']) && $_GET['loadnav'] != '') ? $_GET['loadnav'
     </head>
         <body>
             <div class="header">
-                <h1>PORTFOLIO</h1>by: Carl Aguilar | BSIT_3A
+              <object data="svgIndex/letterp.svg" type="image/svg+xml" class="LetterP"></object>
+              <object data="svgIndex/lettero.svg" type="image/svg+xml" class="LetterO01"></object>
+              <object data="svgIndex/letterr.svg" type="image/svg+xml" class="LetterR"></object>
+              <object data="svgIndex/lettert.svg" type="image/svg+xml" class="LetterT"></object>
+              <object data="svgIndex/letterf.svg" type="image/svg+xml" class="LetterF"></object>
+              <object data="svgIndex/lettero.svg" type="image/svg+xml" class="LetterO02"></object>
+              <object data="svgIndex/letterl.svg" type="image/svg+xml" class="LetterL"></object>
+              <object data="svgIndex/letteri.svg" type="image/svg+xml" class="LetterI"></object>
+              <object data="svgIndex/lettero.svg" type="image/svg+xml" class="LetterO03"></object>
+              </br>
+                <h3>by: Carl Aguilar | BSIT_3A</h3>
                 <div class="nav">
                     <div class="navbar">
                         <a href="index.php">Home</a>
@@ -47,6 +57,7 @@ $loadnav = (isset($_GET['loadnav']) && $_GET['loadnav'] != '') ? $_GET['loadnav'
                 </div>
             </div>
             <div class="body">
+                test
                     <?php 
                     switch($loadnav){
                       case 'LT6.1':
