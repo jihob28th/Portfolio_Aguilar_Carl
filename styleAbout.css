@@ -12,7 +12,7 @@
     position: absolute;
     width: 40%;
     height: 40%;
-    top: 320px;
+    top: 350px;
     left: -130px;
     animation: skew1 5s infinite;
     transform: skew(4deg);
@@ -32,7 +32,7 @@
     position: absolute;
     width: 40%;
     height: 40%;
-    top: 320px;
+    top: 350px;
     left: 150px;
     animation: skew2 5s infinite;
     transform: skew(4deg);
@@ -52,7 +52,7 @@
     position: absolute;
     width: 40%;
     height: 40%;
-    top: 320px;
+    top: 350px;
     left: 430px;
     animation: skew1 5s infinite;
     transform: skew(4deg);
@@ -63,7 +63,7 @@
     position: absolute;
     max-width: 40%;
     height: 40%;
-    top: 320px;
+    top: 350px;
     left: 52%;
     animation: skew2 5s infinite;
     transform: skew(4deg);
@@ -74,7 +74,7 @@
     position: absolute;
     max-width: 40%;
     height: 40%;
-    top: 320px;
+    top: 350px;
     left: 65%;
     animation: skew1 5s infinite;
     transform: skew(4deg);
@@ -84,7 +84,7 @@
 .sun{
     width: 10%;
     position: absolute;
-    top: 5%;
+    top: 15%;
     left: 5%;
     -webkit-animation: rotation 10s infinite linear;
 }
@@ -126,7 +126,7 @@
 }
 
 h1{
-    color: white;
+    color: darkblue;
     font-family: 'Trebuchet MS';
     font-weight: bold;
     font-size: 250%;
