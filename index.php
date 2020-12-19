@@ -18,7 +18,7 @@ $loadnav = (isset($_GET['loadnav']) && $_GET['loadnav'] != '') ? $_GET['loadnav'
               <object data="svgIndex/letteri.svg" type="image/svg+xml" class="LetterI"></object>
               <object data="svgIndex/lettero.svg" type="image/svg+xml" class="LetterO03"></object>
               </br>
-                <h3>by: Carl Aguilar | BSIT_3A</h3>
+                <h4>by: Carl Aguilar | BSIT_3A</h4>
                 <div class="nav">
                     <div class="navbar">
                         <a href="index.php">Home</a>
