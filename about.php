@@ -5,11 +5,11 @@
     </head>
     <body style="background-color: #91c9ed"><br/>
             <h1>ABOUT ME</h1><br/>
-                    <h3 class="font01">Name: Carl Jerome S. Aguilar<br/>
+                    <h2>Name: Carl Jerome S. Aguilar<br/>
                     Age: 21<br/>
                     Profession: Student<br/>
                     Course: Bachelor of Science Major in Information and Technology<br/>
-                    Skills: CSS, SVG, Canvas, HTML and PHP<br/></h3>
+                    Skills: CSS, SVG, Canvas, HTML and PHP<br/></h2>
             <object data="svgIndex/sun.svg" type="image/svg+xml" class="sun"></object>
             <object data="svgIndex/cloud.svg" type="image/svg+xml" class="cloud01"></object>
             <object data="svgIndex/cloud.svg" type="image/svg+xml" class="cloud02"></object>
