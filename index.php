@@ -52,7 +52,7 @@ $loadnav = (isset($_GET['loadnav']) && $_GET['loadnav'] != '') ? $_GET['loadnav'
                               <a href="index.php?loadnav=LT7.1">Learning Task 7.1</a>
                             </div>
                           </div>
-                          <a href="index.php">About Me</a>
+                          <a href="index.php?loadnav=About">About Me</a>
                     </div>
                 </div>
             </div>
@@ -80,6 +80,9 @@ $loadnav = (isset($_GET['loadnav']) && $_GET['loadnav'] != '') ? $_GET['loadnav'
                         break;
                        case 'LT7.1':
                         require_once 'Canvas/LT7.1/index.php';
+                        break;
+                      case 'About':
+                        require_once 'about.php';
                         break;
                       case 'home':
                           require_once 'index.php';
