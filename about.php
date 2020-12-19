@@ -3,7 +3,7 @@
         <title>About Me</title>
         <link rel="stylesheet" type="text/css" href="styleAbout.css">
     </head>
-    <body style="background-color: #91c9ed"><br/>
+    <body><br/>
             <h1>ABOUT ME</h1><br/>
                     <h2>Name: Carl Jerome S. Aguilar<br/>
                     Age: 21<br/>
