@@ -57,7 +57,6 @@ $loadnav = (isset($_GET['loadnav']) && $_GET['loadnav'] != '') ? $_GET['loadnav'
                 </div>
             </div>
             <div class="body">
-                test
                     <?php 
                     switch($loadnav){
                       case 'LT6.1':
