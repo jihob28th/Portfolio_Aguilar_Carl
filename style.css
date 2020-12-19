@@ -1,5 +1,6 @@
 /*Header*/
 .header{
+    background-color: skyblue;
     padding: 20px;
     min-width: 1200px;
     height: 15%;
@@ -73,6 +74,14 @@
     display: block;
   }
 
+h3{
+  position: absolute;
+  color: white;
+  font-family: 'Trebuchet MS';
+  font-weight: bold;
+  top: 70%;
+}
+
 
 /*Body*/
 .body{
@@ -82,4 +91,96 @@
     padding: 20px;
     min-width: 1200px;;
     margin: auto;
+}
+
+/*SVG*/
+.LetterP{
+  width: 3%;
+  position: relative;
+  animation: bounce01 3s infinite;
+}
+@keyframes bounce01 {
+  0%   {top: 0px;}
+  50%  {top: -10px;}
+  100% {top: 0px;}
+}
+.LetterO01{
+  width: 3.5%;
+  position: relative;
+  animation: bounce01 4s infinite;
+}
+@keyframes bounce01 {
+  0%   {top: 0px;}
+  50%  {top: -10px;}
+  100% {top: 0px;}
+}
+.LetterO02{
+  width: 3.5%;
+  position: relative;
+  animation: bounce01 4s infinite;
+}
+@keyframes bounce01 {
+  0%   {top: 0px;}
+  50%  {top: -10px;}
+  100% {top: 0px;}
+}
+.LetterO03{
+  width: 3.5%;
+  position: relative;
+  animation: bounce01 3s infinite;
+}
+@keyframes bounce01 {
+  0%   {top: 0px;}
+  50%  {top: -10px;}
+  100% {top: 0px;}
+}
+.LetterR{
+  width: 3%;
+  position: relative;
+  animation: bounce01 3s infinite;
+}
+@keyframes bounce01 {
+  0%   {top: 0px;}
+  50%  {top: -10px;}
+  100% {top: 0px;}
+}
+.LetterT{
+  width: 3.3%;
+  position: relative;
+  animation: bounce01 4s infinite;
+}
+@keyframes bounce01 {
+  0%   {top: 0px;}
+  50%  {top: -10px;}
+  100% {top: 0px;}
+}
+.LetterF{
+  width: 3%;
+  position: relative;
+  animation: bounce01 3s infinite;
+}
+@keyframes bounce01 {
+  0%   {top: 0px;}
+  50%  {top: -10px;}
+  100% {top: 0px;}
+}
+.LetterL{
+  width: 3%;
+  position: relative;
+  animation: bounce01 3s infinite;
+}
+@keyframes bounce01 {
+  0%   {top: 0px;}
+  50%  {top: -10px;}
+  100% {top: 0px;}
+}
+.LetterI{
+  width: 3%;
+  position: relative;
+  animation: bounce01 4s infinite;
+}
+@keyframes bounce01 {
+  0%   {top: 0px;}
+  50%  {top: -10px;}
+  100% {top: 0px;}
 }
